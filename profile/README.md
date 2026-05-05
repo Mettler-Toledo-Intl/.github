@@ -4,7 +4,9 @@
 
 ✨ Welcome to Mettler Toledo Open Source Platform
 
-![alt-text] (/assets/Skiff-VI-I.eps.jpg)
+<p>
+  <img src="assets/Skiff-VI-I-MRC.eps" height="25%" width="25%" />
+</p>
 
 Our mission in this space is simple:
 
