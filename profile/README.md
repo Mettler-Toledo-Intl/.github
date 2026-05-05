@@ -1,3 +1,5 @@
+![alt text] (./assets/MT_Pyramid_top_digital_rgb.png)
+
 ✨ Welcome to Mettler Toledo Open Source Platform
 
 Our mission in this space is simple:
