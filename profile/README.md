@@ -1,4 +1,6 @@
-![alt text] (./assets/MT_Pyramid_top_digital_rgb.png)
+<p>
+  <img src="assets/MT_Wordmark_Blue_Digital_rgb.png" height="25%" width="25%" />
+</p>
 
 ✨ Welcome to Mettler Toledo Open Source Platform
 
