@@ -20,6 +20,7 @@ Engage: Participate in external FOSS communities and report back on best practic
 [Code of Conduct](https://github.com/Mettler-Toledo-Intl/.github/blob/main/CODE_OF_CONDUCT.md)
 
 Get in touch
+
 Have questions or feedback? We are glad to hear from you.
 
 Reach out to us via - osco@mt.com
