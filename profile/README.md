@@ -1,26 +1,25 @@
-<p>
-  <img src="assets/MT_Wordmark_Blue_Digital_rgb.png" height="100vh" />
-</p>
+<div style="display:flex; justify-content: center">
+  <img src="assets/MRC.png" height="100" />
+</div>
 
-#### **Mettler Toledo Open Source Platform**
+<hr style="background-color: rgba(39, 163, 8, 0.51)" />
 
-Our mission in this space is simple:
+### Welcome to Mettler Toledo Open Source Platform
 
-Contribute openly. Collaborate widely
+**Contribute openly. Collaborate widely.**
 
-- Our Commitment to be Open
-As part of our transformation journey, we are now moving forward to embrace the Open-source environments. We recognize that adopting FOSS principles drives innovation, enhances code quality, and accelerates development cycles across our enterprise.
+We believe great software is built in the open. This organization reflects our commitment to transparency, quality, and community-driven development — and our ongoing journey toward embracing FOSS across the enterprise.
 
-- We Value Growth Opportunities to Our Talents
-To support the on-going journey and promote professional development and growth, we encourage our talents to:
+We encourage everyone here to:
 
-Learn: Explore, audit, and understand the FOSS codebases that power our products.
-Engage: Participate in external FOSS communities and report back on best practices
+- **Learn** — Explore and understand the FOSS codebases that power our products
+- **Engage** — Participate in open source communities and bring back best practices
+- **Contribute** — Give back improvements and help initiate projects we can grow together with others
 
-[Code of Conduct](https://github.com/Mettler-Toledo-Intl/.github/blob/main/CODE_OF_CONDUCT.md)
+Please read our [Code of Conduct](https://github.com/Mettler-Toledo-Intl/.github/blob/main/CODE_OF_CONDUCT.md) before getting started.
 
-Get in touch
+Get in touch — **osco@mt.com**
 
-Have questions or feedback? We are glad to hear from you.
+---
 
-Reach out to us via - osco@mt.com
+*This overview page including the image is subject to © METTLER TOLEDO. All rights reserved. For other content and code in this organization, please refer to the specific license files included in each repository.*
